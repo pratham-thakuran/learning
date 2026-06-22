@@ -6,4 +6,6 @@ practicing some concept of git an dgithub
 4) git rebase
 5) git merge
 now i'll try rebasing in this repo
+5) git mergegit m
+<!-- Ye comment hai, render hone par dikhai nahi dega -->
 
