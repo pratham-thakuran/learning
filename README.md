@@ -5,6 +5,4 @@ practicing some concept of git an dgithub
 3) git status
 4) git rebase
 5) git merge
-new branch made now i will try rebasing and stuff
-hey
-rebasing
+<!-- Ye comment hai, render hone par dikhai nahi dega -->
